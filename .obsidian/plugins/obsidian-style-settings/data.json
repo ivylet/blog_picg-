@@ -1,0 +1,23 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-orange",
+  "blue-topaz-theme@@default-loading-page": true,
+  "blue-topaz-theme@@whole-code-wrap": true,
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
+  "blue-topaz-theme@@file-name-style-option": "file-name-wrapped",
+  "blue-topaz-theme@@translucent-setting-panel": false,
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@remove-arrow": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-one",
+  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-default",
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@unmuted-collapsed-folder": true,
+  "blue-topaz-theme@@light-background-color-files": true,
+  "blue-topaz-theme@@list-style-change-options-edit": "list-no-line-in-edit",
+  "blue-topaz-theme@@plain-file-title": false,
+  "blue-topaz-theme@@fancy-hr": "default-hr",
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-default",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-in-the-sky"
+}

@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "8d66a4d40660194c",
+    "type": "split",
+    "children": [
+      {
+        "id": "32cd9a81f1c12c4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-05-25.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "665af11a85faed95",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "928a0257396cc5aa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7caa485614a86ab4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "159ea1f646b0cf58",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dac5b136e034c5bb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2022-05-25.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "72b914689d9cb558",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2022-05-25.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "32cd9a81f1c12c4d",
+  "lastOpenFiles": [
+    "2022-05-25.md",
+    "游标和触发器.md"
+  ]
+}

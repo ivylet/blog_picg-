@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "f3eab1f28b1c1a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfabd726d27cc4d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JCoffee/Spring/配置文件详解.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cf717a046e24fb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e438104f367bbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a863fe84ef507d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f48f69f1278fdf54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241
+  },
+  "right": {
+    "id": "6f5f565815e2a755",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30570256c12b00b",
+        "type": "tabs",
+        "dimension": 61.34020618556701,
+        "children": [
+          {
+            "id": "9594d16285030699",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JCoffee/Spring/配置文件详解.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "28c466de99ef317d",
+        "type": "tabs",
+        "dimension": 38.659793814432994,
+        "children": [
+          {
+            "id": "f0434bd8937eaa92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JCoffee/Spring/配置文件详解.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bfabd726d27cc4d9",
+  "lastOpenFiles": [
+    "JCoffee/Spring/简介.md",
+    "JCoffee/Spring/Spring快速入门.md",
+    "JCoffee/Spring/未命名.md",
+    "JCoffee/Spring/配置文件详解.md",
+    "langLearn/JavaSE/注解与反射.md",
+    "langLearn/面向对象/面向对象.md",
+    "langLearn/py/基本语法.md",
+    "langLearn/py/基本数据类型.md",
+    "danci/translator/Introduction.md",
+    "langLearn/py/概述.md"
+  ]
+}
